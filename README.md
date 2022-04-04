@@ -1,6 +1,5 @@
 # Leetcode-Java
-[Leetcode](https://leetcode.com/) Java examples
-Solutions to Leetcode problems written in Java.
+[Leetcode](https://leetcode.com/) Java examples. Solutions to Leetcode problems written in Java.
 
 
 |    #    |       Problem        |   Difficulty  |    Solution   |
