@@ -1,5 +1,5 @@
 # Leetcode-Java
-Leetcode Java examples
+[Leetcode](https://leetcode.com/) Java examples
 
 |    #    |       Problem        |   Difficulty  |    Solution   |
 | ------- | -------------------- | ------------- | ------------- |
